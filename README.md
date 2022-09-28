@@ -1,1 +1,7 @@
-# primeiroc_3t
+# Terceiro Trimestre
+
+## Identificaçao
+Gabriela Cardoso - Nr.12
+
+## Conteudo
+HTML, CSS e JavaScript
