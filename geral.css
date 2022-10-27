@@ -1,1 +1,40 @@
+#calculadora{
+    background: rgb(160, 224, 147);
+    width: 190px;
+    padding: 10px;
+    border-radius: 400px;
+}
+#calculadora input{
+    background: rgb(214, 129, 98);
+    color: black;
+    border-radius: 10px;
+    padding: 5px;
+}
+#calculadora button{
+    background: burlywood;
+    color: cornsilk;
+    margin-top: 10px;
+    padding: 5px ;
+    border-radius: 10px;
+}
+#calculadora button:hover{
+    background: rgb(186, 155, 216) ;
+    color: black ;
+    cursor: pointer;
 
+}
+#spTotal{
+    background: cadetblue;
+    color: cornsilk;
+    border-radius: 10px;
+    padding: 5px;
+    font-style: italic;
+}
+.splista{
+    background: darkgray;
+    border-radius: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: darkseagreen;
+    width: 200px;
+
+}
