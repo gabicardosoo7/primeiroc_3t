@@ -1,8 +1,12 @@
 #calculadora{
     background: rgb(160, 224, 147);
-    width: 190px;
-    padding: 10px;
+    width: 200px;
+    padding: 20px;
     border-radius: 400px;
+    box-shadow: 10px 10x bisque;
+    position: absolute;
+    left: 40%;
+    top: 10%;
 }
 #calculadora input{
     background: rgb(214, 129, 98);

@@ -49,7 +49,7 @@ function mat(){
         return
     }
     if(!Number(t)){
-        alert("Juros deve ser número.");
+        alert("Tempo deve ser número.");
         document.getElementById("meses").value = "";
         document.getElementById("meses").focus();
         return
@@ -61,6 +61,18 @@ function mat(){
      // document.write("Mês " + i + " = " + moeda(r) + "<br>");
      
     }
-    document.getElementById("totalGeral").innerHTML = "Total: "+moeda(r);
+    document.getElementById("mes").innerHTML =mes
+
+    document.getElementById("total").innerHTML = "Total: "+moeda(r);
    // document.write("Resultado " + moeda(r));
+
+   function zerar(){
+
+    document.getElementById("mes").innerHTML = "";
+    document.getElementById("totalGeral").innerHTML = "0,00 ";
+    document.getElementById("valor").value = "";
+    document.getElementById("juros").value = "";
+    document.getElementById("meses").value = "";
+  
+   }
 }
