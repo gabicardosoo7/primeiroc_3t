@@ -1,7 +1,7 @@
 # Terceiro Trimestre
 
-## Identificaçao
-Gabriela Cardoso - Nr.12
+## Identificação
+Jesus Maringá - Nr. 50
 
-## Conteudo
-HTML, CSS e JavaScript
+## Conteúdo
+HTML, CSS e javaScript
